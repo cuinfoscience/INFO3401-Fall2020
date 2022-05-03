@@ -1,0 +1,3 @@
+# INFO3401: Information Exposition (Fall 2020)
+
+The volume, velocity, variety, and variability of data challenges our ability to collect, analyze, interpret, and act. This course will develop students’ skills and sensibilities for conducting exploratory data analysis across seven kinds of data. Students will learn to collect, analyze, visualize, evaluate, and communicate data to motivate new questions, make predictions, and work towards solutions. This course will call upon the quantitative and computational skills students have developed in previous courses and will increase their confidence and autonomy as data analysts and scientists who can deliver insights from diverse kinds of data.
